@@ -4,6 +4,6 @@
   font-style: normal;
 }
 
-a {
+a:hover {
   color: darkgreen;
 }
